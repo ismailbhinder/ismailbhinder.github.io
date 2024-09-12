@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ismailbhinder.github.io"
+  title: "Career and Professional Development Student Rep for Regressors"
   navbar:
     left:
       - href: index.qmd
