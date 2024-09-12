@@ -1,5 +1,5 @@
 ---
-title: "ismailbhinder.github.io"
+title: "Career and Professional Development Student Rep for Regressors"
 ---
 
 This is a Quarto website.
