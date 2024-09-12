@@ -3,16 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Career and Professional Development Student Rep for Regressors"
+  title: "Ismail (Husain) Bhinderwala"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
