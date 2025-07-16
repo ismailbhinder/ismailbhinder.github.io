@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Ismail Bhinderwala"
   navbar:
     left:
       - href: index.qmd
