@@ -22,7 +22,7 @@ Integrated caching, production server deployment (Gunicorn), and live interactiv
 **UBC (Jan 2025)**  
 Built a modular Python package for automated data cleaning, anomaly detection, and EDA visualization.  
 Supported plots (boxplots, heatmaps, histograms) using Altair; included anomaly detection via IQR and percentile-based methods.  
-Integrated CI/CD using GitHub Actions, pytest for testing, and ReadTheDocs for deployment.  
+Integrated CI/CD using GitHub Actions, pytest for testing, and ReadTheDocs for deploying the package documentation.  
 [GitHub Repository](https://github.com/UBC-MDS/dataprofiler_group-30)
 
 ---
