@@ -3,17 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "ismailbhinder.github.io"
+  title: "Ismail Bhinderwala"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/ismailbhinder
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ismailbhinder
 
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
-
-
-

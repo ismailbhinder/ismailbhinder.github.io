@@ -1,0 +1,34 @@
+---
+title: "Projects"
+---
+
+#### Ensemble Rainfall Prediction Model  
+**UBC (Mar 2025)**  
+Designed an ensemble machine learning model for daily rainfall prediction using Australian climate datasets.   
+Deployed a Flask REST API on AWS EC2, using S3 and EMR Spark for scalable data handling.  
+
+---
+
+#### Ads Analytics Dashboard  
+**UBC (Feb 2025)**  
+Developed an interactive web dashboard (Dash + Flask) to analyze Google Play Store app data for advertisers.  
+Enabled filtering by installs, categories, and ratings, with visual comparisons using Altair.  
+Integrated caching, production server deployment (Gunicorn), and live interactivity.  
+[GitHub Repository](https://github.com/UBC-MDS/DSCI-532_2025_25_Ads-Analytics)
+
+---
+
+#### Datpro – Data Profiling Package  
+**UBC (Jan 2025)**  
+Built a modular Python package for automated data cleaning, anomaly detection, and EDA visualization.  
+Supported plots (boxplots, heatmaps, histograms) using Altair; included anomaly detection via IQR and percentile-based methods.  
+Integrated CI/CD using GitHub Actions, pytest for testing, and ReadTheDocs for deployment.  
+[GitHub Repository](https://github.com/UBC-MDS/dataprofiler_group-30)
+
+---
+
+#### Age Group Predictor  
+**UBC (Dec 2024)**  
+Created a containerized ML pipeline (Docker + Makefile) to classify age groups from NHANES survey data.  
+Designed modular architecture aligned with MLOps principles, enabling reproducible training and deployment.  
+[GitHub Repository](https://github.com/UBC-MDS/DSCI522-2425-group31_age-group-prediction)

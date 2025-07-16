@@ -1,8 +1,16 @@
 ---
 title: "Ismail (Husain) Bhinderwala"
-image: mypic.jpg
+image: images/mypic.jpg
 about:
   template: jolla
   image-shape: round
   image-width: 15em
 ---
+
+##### Welcome! 
+I am a **Data Science Graduate** from the University of British Columbia, Canada, and hold a **Bachelor of Engineering in Computer Engineering** with an **Honours degree in Data Science** from K. J. Somaiya Institute of Technology, India.
+
+With over **2 years of combined experience** in **machine learning engineering**, **natural language processing**, **data pipeline development**, and **applied research** across the **legal** and **agricultural** domains, I specialize in building scalable and reproducible data-driven solutions.
+
+Explore this website to learn more about my [background](about.qmd), [projects](projects.qmd), and access my [resume](files/Ismail_Bhinderwala.pdf).
+
